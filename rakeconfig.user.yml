@@ -1,0 +1,7 @@
+:subtrees:
+  'subtrees/Sparrow-Framework':
+    :remote: 'git@github.com:Gamua/Sparrow-Framework.git'
+  'subtrees/cocos2d-iphone':
+    :remote: 'git@github.com:cocos2d/cocos2d-iphone.git'
+    :branch: 'develop-v2'
+    :name: 'cocos2d-iphone'
